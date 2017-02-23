@@ -19,9 +19,9 @@ With these evaluation tools in mind, there are a wide variety of OERs to explore
 
 Google can also find Creative Commons materials. Simply do a Google search on your topic, go to advanced search, and narrow the results by usage rights. Free to share, use, or modify is probably the best place to start:
 
-![screenshot of Google Search advanced settings](/images/google.advanced.1.gif)
+![screenshot of Google Search advanced settings](/images/google_advanced_1.gif)
 
-![screenshot of Google Search advanced search usage rights filter](/images/google.advanced.2.gif)
+![screenshot of Google Search advanced search usage rights filter](/images/google_advanced_2.gif)
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)

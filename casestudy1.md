@@ -4,7 +4,7 @@ This lesson combines material from two classes:
 Donald Sadoway, Patty Barbera, and Angie Locknar's "3.093 Information Exploration: Becoming a Savvy Scholar, Fall 2006."  
 [http://ocw.mit.edu/courses/materials-science-and-engineering/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006](http://ocw.mit.edu/courses/materials-science-and-engineering/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006)
 
-and 
+and
 
 University of California's "Begin Research Online Workshop."  
 [http://www.lib.uci.edu/uc-research-tutorial/begin.html](http://www.lib.uci.edu/uc-research-tutorial/begin.html)
@@ -24,7 +24,7 @@ In terms of choice, imagine you are working on this research question: **"How do
 
 You probably want to pull out these keywords:
 
-![keywords from a research question](/images/research.question.jpg)
+![keywords from a research question](/images/research_question.jpg)
 
 
 [Use this guide to create synonyms](https://canvas.instructure.com/courses/815700/files/24783106).

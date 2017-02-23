@@ -24,7 +24,7 @@ In terms of choice, imagine you are working on this research question: **"How do
 
 You probably want to pull out these keywords:
 
-![keywords from a research question](/images/research_question.jpg)
+![keywords from a research question](images/research_question.jpg)
 
 
 [Use this guide to create synonyms](https://canvas.instructure.com/courses/815700/files/24783106).
